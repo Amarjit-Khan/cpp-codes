@@ -1,0 +1,7 @@
+1. Linear Search
+2. Binary Search
+3. Jump Search
+4. Interpolation Search
+5. Exponential Search
+6. Sublist Search (Search a linked list in another list)
+7. Fibonacci Search

@@ -1,0 +1,14 @@
+Standard Template Library of generic classes and functions.
+We can reuse well tested components.
+Components of stl are --> Containers (Stores data, uses template classes), Algorithms (sorting, searching), Iterators(object that points to an element in a conatiner, handled just like pointers).
+Vector is an example of a container.
+
+Containers are of 3 types --> Sequence containers (Stores data in linear fashion, ex --> vector, list, dequeue(double ended queue)), associate containers (direct access, ex--> set, multiset, map, multimap), derived containers (derived from the other 2 containers, real world modelling, ex-->stack, queue, priority queue).
+
+Sequence containers --> 
+1. Vector -> Random access is fast, insertion/deletion at middle is slow, insertion at end is fast.
+2. List -> Random access is slow, stored in linked-list, deletion/insertion at middle,end is fast.
+
+Associative container --> All operations fast except random access because it stores data elements in tree data structure.
+
+Derived Conatiners --> Depends on the data structures.

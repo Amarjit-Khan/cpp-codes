@@ -1,0 +1,4 @@
+1. Taking a string as an input from user
+2. Accepts a string line as input from user
+3. Operations on strings
+4. Passing a character array(string) into a function
