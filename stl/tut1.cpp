@@ -26,7 +26,7 @@ int main()
     vector<int> vec1;        // an array vec1 of type int is allocated, zero length integer vector
     vector<char> vec2(4);    // 4-element character vector
     vector<char> vec3(vec2); // 4-element character vector from vect2
-    vector<int> vec4(6, 13);  // 6-element vector of 3s
+    vector<int> vec4(6, 13); // 6-element vector of 3s
 
     display(vec1);
     display(vec2);
@@ -56,6 +56,6 @@ int main()
     vec1.insert(iter + 3, 5, 699); // inserting 5 copies of 699 at the location where iter is pointing
     display(vec1);
 
-    cout<<vec4.size();
+    cout << vec4.size();
     return 0;
 }

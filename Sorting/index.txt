@@ -1,9 +1,0 @@
-1. Selection sort
-2. Bubble sort
-3. Insertion sort
-4. Merge sort
-5. Quick sort
-6. Count sort
-7. DNF sort
-8. Wave sort
-9. Heap sort

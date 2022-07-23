@@ -1,4 +1,6 @@
 // Binary search in a sorted array in c++
+// O(log(n))
+
 #include <iostream>
 using namespace std;
 

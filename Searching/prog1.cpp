@@ -1,4 +1,6 @@
 // linear search
+// O(n)
+
 #include <iostream>
 using namespace std;
 

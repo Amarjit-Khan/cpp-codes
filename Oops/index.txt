@@ -1,4 +1,0 @@
-1. Class and objects
-2. Class and array of objects
-3. Passing objects as arguement of a function in class
-4. Constructor and Destructor

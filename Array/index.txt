@@ -1,6 +1,0 @@
-1. Taking size of array and array as input from user
-2. Passing an array into a function
-3. Print all sub arrays of an array
-4. Maximum subarray sum
-5. Kadane's algorithm -- finding max subarray sum in O(n) time
-6. find all possible permutations of an array
