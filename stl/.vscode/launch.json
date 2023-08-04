@@ -5,17 +5,13 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [
-        ""
-      ],
+      "args": [],
       "stopAtEntry": false,
-      "cwd": "c:/Users/AMARJIT/Desktop/c++/stl",
-      "environment": [],
-      "program": "c:/Users/AMARJIT/Desktop/c++/stl/build/Debug/outDebug",
-      "internalConsoleOptions": "openOnSessionStart",
+      "externalConsole": true,
+      "cwd": "g:/Learning/c++ codes/stl",
+      "program": "g:/Learning/c++ codes/stl/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
-      "externalConsole": false,
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",

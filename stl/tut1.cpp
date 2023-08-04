@@ -24,9 +24,9 @@ int main()
 {
     cout << "Hello World" << endl;
     vector<int> vec1;        // an array vec1 of type int is allocated, zero length integer vector
-    vector<char> vec2(4);    // 4-element character vector
+    vector<char> vec2(4);    // 4-element character vector with no content
     vector<char> vec3(vec2); // 4-element character vector from vect2
-    vector<int> vec4(6, 13); // 6-element vector of 3s
+    vector<int> vec4(6, 13); // 6-element vector of 13s
 
     display(vec1);
     display(vec2);
